@@ -1,0 +1,12 @@
+Installing NPM modules on both client and server folders
+Open terminal and write these commands : 
+
+for client (frontend) :   cd client
+               npm install
+
+for server(backend) :  cd server 
+                       npm install
+
+In the server > .env file, you can find some information.
+So find your mongodb cloud url with database which will look like this: mongodb+srv://myusername:myclusterpassword@mycluster.mongodb.net/ecommerce?
+(as attached screenshots)
